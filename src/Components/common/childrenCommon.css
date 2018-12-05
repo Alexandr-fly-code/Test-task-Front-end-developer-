@@ -1,0 +1,23 @@
+
+.img {
+    max-width: 350px;
+}
+
+.box {
+    position: relative;
+}
+.abs {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #fff;
+}
+
+.price {
+    position: absolute;
+    top: 5%;
+    left: 20%;
+    color: #ffe600;
+    font-size: 24px;
+    font-weight: bold;
+}
